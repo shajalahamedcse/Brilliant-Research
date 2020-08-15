@@ -10,6 +10,7 @@
   - [ Cinmoy Das ](https://github.com/cinmoy98/PostgreSQL-tutorial-documentation)
   - [phase7 (Ratul)](https://github.com/phase7/bcloud-research)  
   - [fuadnafiz98](https://github.com/fuadnafiz98/cloud)
+  - [Qazi Fahim Farhan](https://github.com/fahimfarhan/cloud-research-odyssey)
 
 
 
