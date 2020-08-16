@@ -22,6 +22,7 @@
 
 ### Redis Documentation
   - [Sihat Afnan](https://github.com/AfnanCSE98/Redis)
+  - [Shafin Hasnat](https://github.com/shafinhasnat/REDIS-made-easy)
 
 
     
