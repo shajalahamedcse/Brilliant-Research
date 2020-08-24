@@ -18,14 +18,21 @@
   - [phase7 (Ratul)](https://github.com/phase7/bcloud-research)  
 
   - [Qazi Fahim Farhan](https://github.com/fahimfarhan/cloud-research-odyssey)
+  
+  - [arasel mir](https://github.com/araselmir/PostgreSQL)
+
   - [Nissan Devnath](https://github.com/nissan997/PostgreSQL-Cheat-Sheet)
 
 ### Redis Documentation
   - [Sihat Afnan](https://github.com/AfnanCSE98/Redis)
+  
+  - [arasel mir](https://github.com/araselmir/redis)
+
   - [Shafin Hasnat](https://github.com/shafinhasnat/REDIS-made-easy)
 
 
     
+
 
 
 
